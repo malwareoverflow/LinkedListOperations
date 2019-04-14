@@ -1,0 +1,11 @@
+/root/dotnetCore-Project/LinkedListOperations/bin/Debug/netcoreapp2.1/LinkedListOperations.deps.json
+/root/dotnetCore-Project/LinkedListOperations/bin/Debug/netcoreapp2.1/LinkedListOperations.runtimeconfig.json
+/root/dotnetCore-Project/LinkedListOperations/bin/Debug/netcoreapp2.1/LinkedListOperations.runtimeconfig.dev.json
+/root/dotnetCore-Project/LinkedListOperations/bin/Debug/netcoreapp2.1/LinkedListOperations.dll
+/root/dotnetCore-Project/LinkedListOperations/bin/Debug/netcoreapp2.1/LinkedListOperations.pdb
+/root/dotnetCore-Project/LinkedListOperations/obj/Debug/netcoreapp2.1/LinkedListOperations.csprojAssemblyReference.cache
+/root/dotnetCore-Project/LinkedListOperations/obj/Debug/netcoreapp2.1/LinkedListOperations.csproj.CoreCompileInputs.cache
+/root/dotnetCore-Project/LinkedListOperations/obj/Debug/netcoreapp2.1/LinkedListOperations.AssemblyInfoInputs.cache
+/root/dotnetCore-Project/LinkedListOperations/obj/Debug/netcoreapp2.1/LinkedListOperations.AssemblyInfo.cs
+/root/dotnetCore-Project/LinkedListOperations/obj/Debug/netcoreapp2.1/LinkedListOperations.dll
+/root/dotnetCore-Project/LinkedListOperations/obj/Debug/netcoreapp2.1/LinkedListOperations.pdb

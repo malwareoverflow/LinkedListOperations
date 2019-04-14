@@ -1,0 +1,14 @@
+/root/dotnetCore-Project/LinkedListOperations/bin/Release/netcoreapp2.1/win10-x64/hostpolicy.dll
+/root/dotnetCore-Project/LinkedListOperations/bin/Release/netcoreapp2.1/win10-x64/hostfxr.dll
+/root/dotnetCore-Project/LinkedListOperations/bin/Release/netcoreapp2.1/win10-x64/LinkedListOperations.exe
+/root/dotnetCore-Project/LinkedListOperations/bin/Release/netcoreapp2.1/win10-x64/LinkedListOperations.deps.json
+/root/dotnetCore-Project/LinkedListOperations/bin/Release/netcoreapp2.1/win10-x64/LinkedListOperations.runtimeconfig.json
+/root/dotnetCore-Project/LinkedListOperations/bin/Release/netcoreapp2.1/win10-x64/LinkedListOperations.runtimeconfig.dev.json
+/root/dotnetCore-Project/LinkedListOperations/bin/Release/netcoreapp2.1/win10-x64/LinkedListOperations.dll
+/root/dotnetCore-Project/LinkedListOperations/bin/Release/netcoreapp2.1/win10-x64/LinkedListOperations.pdb
+/root/dotnetCore-Project/LinkedListOperations/obj/Release/netcoreapp2.1/win10-x64/LinkedListOperations.csprojAssemblyReference.cache
+/root/dotnetCore-Project/LinkedListOperations/obj/Release/netcoreapp2.1/win10-x64/LinkedListOperations.csproj.CoreCompileInputs.cache
+/root/dotnetCore-Project/LinkedListOperations/obj/Release/netcoreapp2.1/win10-x64/LinkedListOperations.AssemblyInfoInputs.cache
+/root/dotnetCore-Project/LinkedListOperations/obj/Release/netcoreapp2.1/win10-x64/LinkedListOperations.AssemblyInfo.cs
+/root/dotnetCore-Project/LinkedListOperations/obj/Release/netcoreapp2.1/win10-x64/LinkedListOperations.dll
+/root/dotnetCore-Project/LinkedListOperations/obj/Release/netcoreapp2.1/win10-x64/LinkedListOperations.pdb
